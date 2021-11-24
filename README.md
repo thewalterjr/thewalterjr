@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="left"> 
-  🌎 Olá, meu nome é Walter. Sou <strong>Desenvolvedor Back-en</strong>
+  🌎 Olá, meu nome é Walter. Sou <strong>Desenvolvedor Back-end</strong>
 </p>
 
 <p align="left">
